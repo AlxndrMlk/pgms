@@ -5,4 +5,4 @@ Notes on probabilistic graphical models (PGMs)
 
 A Bayesian network:
 - a directed DAG G
-- nodes represent random variables $X_1$
+- nodes represent random variables <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
